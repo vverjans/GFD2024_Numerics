@@ -8,6 +8,6 @@ The programming language is Python, and notebooks are displayed with jupyter not
 - matplotlib
 - scipy
 
-For any questions: vverjans@pusan.ac.kr \
+For any questions: vverjans@pusan.ac.kr 
 
 Vincent Verjans
